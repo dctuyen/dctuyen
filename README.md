@@ -2,7 +2,6 @@
 **dctuyen/dctuyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ##          ✨ WELLCOME TO MY PROFILE ✨
-<a href="https://www.buymeacoffee.com/dctuyen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 ```php
 <?php
 
@@ -41,3 +40,5 @@ class About extends Me
 }
 ?>
 ```
+<a href="https://www.buymeacoffee.com/dctuyen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+

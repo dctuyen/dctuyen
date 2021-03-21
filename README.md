@@ -2,7 +2,6 @@
 **dctuyen/dctuyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ##          ✨ WELLCOME TO MY PROFILE ✨
-![](https://komarev.com/ghpvc/?username=dctuyen&color=orange)
 ```php
 <?php
 
@@ -39,4 +38,5 @@ class About extends Me
         return 'to trainning and perfect my programming skills.';
     }
 }
+?>
 ```

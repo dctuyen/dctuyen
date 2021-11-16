@@ -17,7 +17,7 @@ class About extends Me
               'university' => 'Thuy Loi University',
             ]
             'workplace' => [
-                'company' => null,
+                'company' => Softdreams,
             ]
         ];
     }
@@ -25,7 +25,7 @@ class About extends Me
     public function getDailyKnowledge(): array
     {
         return [
-            Php::class,
+            Php::class => phalcon,
             Java::class,
             C#::class,
             C++::class,

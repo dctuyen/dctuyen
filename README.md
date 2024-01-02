@@ -29,7 +29,7 @@ class About extends Me
             Java::class,
             C#::class,
             C++::class,
-            html,css,xml::class,
+            Front-end::a little,
         ];
     }
 
